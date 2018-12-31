@@ -11,7 +11,7 @@ github_repo: "https://github.com/illionhh/illionhh.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "one more time, one more chance"
 sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -97,7 +97,7 @@ service-worker: true
 
 # Friends
 friends: [
-    
+
       {
         title: "知乎",
         href: "https://www.zhihu.com/people/illionhao-hao/activities"
